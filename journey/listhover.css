@@ -1,0 +1,6 @@
+/*<!-- تمت الكتابة عن طريق أحمد دريرة/written by Ahmed Drera-->*/
+.mkdf-drop-down>ul>li:hover>.second {
+    z-index: 20;
+    opacity: 1;
+    visibility: visible;
+}

@@ -1,0 +1,13 @@
+/*<!-- تمت الكتابة عن طريق أحمد دريرة/written by Ahmed Drera-->*/
+@font-face {
+  font-family: 'Lora';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Lora Regular'), local('Lora-Regular'), url(http://fonts.gstatic.com/s/lora/v12/0QIvMX1D_JOuMwr7Jg.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Open Sans Regular'), local('OpenSans-Regular'), url(http://fonts.gstatic.com/s/opensans/v15/mem8YaGs126MiZpBA-UFVZ0e.ttf) format('truetype');
+}
